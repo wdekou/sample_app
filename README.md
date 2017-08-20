@@ -37,5 +37,9 @@ If the test suite passes, you'll be ready to run the app in a local server:
 $ rails server
 ```
 
+# Production 
+A working vesion can be find here. [sample-app-rails-tuto](https://sample-app-rails-tuto.herokuapp.com/ )
+
+
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
